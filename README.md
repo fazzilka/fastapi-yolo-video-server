@@ -1,1 +1,0 @@
-# fastapi-yolo-video-server
